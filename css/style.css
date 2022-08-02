@@ -12,6 +12,15 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%; }
 
+  .demo-frame1,
+  .demo-frame2,
+  .demo-frame3,
+  .demo-frame4 {
+    background-size: cover;
+    background-attachment: fixed;
+    overflow: hidden;
+  }
+
 body {
   margin: 0; }
 
